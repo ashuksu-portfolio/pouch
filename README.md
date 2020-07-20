@@ -24,6 +24,4 @@ https://ashuksu-portfolio.github.io/pouch/settings.html
 
 https://ashuksu-portfolio.github.io/pouch/upload.html
 
-https://ashuksu-portfolio.github.io/pouch/profile.html
-
 https://ashuksu-portfolio.github.io/pouch/withdrawals.html
